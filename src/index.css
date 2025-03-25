@@ -32,3 +32,18 @@ header{
 .navigation-bar-item:hover{
   text-decoration: underline;
 }
+
+footer{
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+main{
+  margin: 0;
+}
+
+body{
+  margin: 0;
+}
